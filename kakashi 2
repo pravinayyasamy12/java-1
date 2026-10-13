@@ -1,0 +1,8 @@
+
+class Main {
+    public static void main(String[] args) {
+        int a = 79;
+        int b = 79;
+        System.out.print(a == b ? "Equal" : (a > b ? "a is greater" : "b is greater"));
+    }
+}
