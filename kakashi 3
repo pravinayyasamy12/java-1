@@ -1,0 +1,7 @@
+
+class Main {
+    public static void main(String[] args) {
+        int a = -79;
+        System.out.print(a >0 ? "a is positive" :"a is negative"); 
+    }
+}
