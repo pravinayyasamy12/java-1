@@ -1,0 +1,6 @@
+class Main {
+    public static void main(String[] args) {
+        int a = 55;
+        System.out.print(a >18 ? "a is not eligible" :"a is eligible"); 
+    }
+}
